@@ -6,8 +6,8 @@ Welcome to an overview of the projects I've completed, with links to their GitHu
 |    Name + Repo Link    |    Description    |    Devices Supported    |    Frameworks    |    Image    |
 |    -------------    |    -------------    |    -------------    |    -------------    |    -------------    |
 |    [Checklists](https://github.com/IJkeBotman/Checklists)    |    A checklist / to do app.    |    iPhone    |    UIKit    |        |
-|    [CircularAnimation](https://github.com/IJkeBotman/CircularAnimation)    |    A download progress animation.    |    iPhone    |        |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif" width="600">    |
-|    [Transition Ping Pong](https://github.com/IJkeBotman/TransitionPingPong)    |    Custom UIViewController Transition    |    iPhone    |        |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/BullsEye.gif" width="600">    |
+|    [CircularAnimation](https://github.com/IJkeBotman/CircularAnimation)    |    A download progress animation.    |    iPhone    |        |        |
+|    [Transition Ping Pong](https://github.com/IJkeBotman/TransitionPingPong)    |    Custom UIViewController Transition    |    iPhone    |        |        |
 |    [Recipes](https://github.com/IJkeBotman/Recipes)    |    A simple recipe viewer for Apple Watch.    |    iPhone + Apple Watch    |        |        |
 |    [Campus](https://github.com/IJkeBotman/Campus)    |    Graphs and Animation on Apple Watch.    |    iPhone + Apple Watch    |    Gesture Recognizer    |        |
 |    [UHL](https://github.com/IJkeBotman/UHL)    |    Show upcoming matches and keep dock snapshot up to date.    |    iPhone + Apple Watch    |    Snapshot    |        |
