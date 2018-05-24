@@ -5,7 +5,7 @@ Welcome to an overview of the projects I've completed, with links to their GitHu
 ## Projects
 |    Name    |    Description    |    Devices Supported    |    Frameworks    |    Repo Link    |    Image    |
 |    -------------    |    -------------    |    -------------    |    -------------    |    -------------    |    -------------    |
-|    Checklists    |    A checklist / to do app.    |    iPhone    |    UIKit    |    [ARKit_Planets](https://github.com/IJkeBotman/Checklists)    |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif" width="600">    |
+|    Checklists    |    A checklist / to do app.    |    iPhone    |    UIKit    |    [ARKit_Planets](https://github.com/IJkeBotman/Checklists)    |    ![AR Solar System](https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif)    |
 |    CircularAnimation    |    A download progress animation.    |    iPhone    |        |    [ARKit_Planets](https://github.com/IJkeBotman/CircularAnimation)    |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif" width="600">    |
 |    TransitionPingPong    |    Custom UIViewController Transition    |    iPhone    |        |    [Transition Ping Pong](https://github.com/IJkeBotman/TransitionPingPong)    |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/BullsEye.gif" width="600">    |
 |    Recipes    |    A simple recipe viewer for Apple Watch.    |    iPhone + Apple Watch    |        |        |        |
@@ -24,4 +24,4 @@ Welcome to an overview of the projects I've completed, with links to their GitHu
 |    BullsEye    |    A game where the player has to guess a number.    |    iPhone    |    UIKit    |        |        |
 |    Layout    |    Social Photo Front-End for Apple Watch    |    iPhone + Apple Watch    |        |        |        |
 |    ColorPicker    |    Apple Watch app for quickly reading color values.    |    iPhone + Apple Watch    |        |        |        |
-|    AutoLayout    |    An app that uses AutoLayout constraints to set up the app's layout.    |    iPhone    |        |        |        |                         
+|    AutoLayout    |    An app that uses AutoLayout constraints to set up the app's layout.    |    iPhone    |        |        |        | 
