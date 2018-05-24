@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to an overview of the projects I've completed, with links to their GitHub repositories.
+Welcome to an overview of the projects I've completed, with links to their GitHub repositories. These are tutorials and research projects into different frameworks and technologies. Working through these tutorials has helped me get a solid foundation in iOS development.
 
 ## Projects
 |    Name + Repo Link    |    Description    |    Devices Supported    |    Frameworks / Technologies    |    Image    |
