@@ -5,8 +5,8 @@ Welcome to an overview of the projects I've completed, with links to their GitHu
 ## Projects
 |    Name + Repo Link    |    Description    |    Devices Supported    |    Frameworks    |    Image    |
 |    -------------    |    -------------    |    -------------    |    -------------    |    -------------    |
-|    [ARKit_Planets](https://github.com/IJkeBotman/Checklists)    |    A checklist / to do app.    |    iPhone    |    UIKit    |    ![AR Solar System](https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif)    |
-|    [ARKit_Planets](https://github.com/IJkeBotman/CircularAnimation)    |    A download progress animation.    |    iPhone    |        |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif" width="600">    |
+|    [Checklists](https://github.com/IJkeBotman/Checklists)    |    A checklist / to do app.    |    iPhone    |    UIKit    |    ![AR Solar System](https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif)    |
+|    [CircularAnimation](https://github.com/IJkeBotman/CircularAnimation)    |    A download progress animation.    |    iPhone    |        |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/ARKit_Planets.gif" width="600">    |
 |    [Transition Ping Pong](https://github.com/IJkeBotman/TransitionPingPong)    |    Custom UIViewController Transition    |    iPhone    |        |    <img src="https://github.com/IJkeBotman/Portfolio/blob/master/Images/BullsEye.gif" width="600">    |
 |    [Recipes](https://github.com/IJkeBotman/Recipes)    |    A simple recipe viewer for Apple Watch.    |    iPhone + Apple Watch    |        |        |
 |    [Campus](https://github.com/IJkeBotman/Campus)    |    Graphs and Animation on Apple Watch.    |    iPhone + Apple Watch    |    Gesture Recognizer    |        |
@@ -25,4 +25,3 @@ Welcome to an overview of the projects I've completed, with links to their GitHu
 |    [Layout](https://github.com/IJkeBotman/Layout)    |    Social Photo Front-End for Apple Watch    |    iPhone + Apple Watch    |        |        |
 |    [ColorPicker](https://github.com/IJkeBotman/ColorPicker)    |    Apple Watch app for quickly reading color values.    |    iPhone + Apple Watch    |        |        |
 |    [AutoLayout](https://github.com/IJkeBotman/AutoLayout)    |    An app that uses AutoLayout constraints to set up the app's layout.    |    iPhone    |        |        |
-
